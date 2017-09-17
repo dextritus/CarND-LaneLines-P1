@@ -1,14 +1,8 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
 [//]: # (Image References)
 
 [pipeline]: ./writeup_images/pipeline.png "Example pipeline"
-
----
-
-### Reflection
 
 ### 1. Pipeline description
 
